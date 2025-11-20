@@ -1,0 +1,8 @@
+ALGORITIMO: GREEDY BEST-FIRST-SEARCH
+HEURISTICA: Euclidiana
+ORIGEM: (0,0)
+DESTINO: (3,3)
+CAMINHO: (0,0) -> (0,1) -> (1,1) -> (1,2) -> (2,2) -> (2,3) -> (3,3)
+CUSTO: 35.0
+NOS EXPANDIDOS: 7
+TEMPO (ms): 0.09
